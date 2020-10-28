@@ -93,6 +93,7 @@
 
   #who .img {
     padding: 2rem;
+    width: 100%;
   }
 
   #who h1 {
